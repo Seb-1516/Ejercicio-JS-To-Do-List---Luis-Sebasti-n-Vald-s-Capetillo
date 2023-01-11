@@ -1,0 +1,15 @@
+
+
+ul,li{
+    color: green;
+}
+.new{
+    color: green;
+}
+
+.done{
+    color: gray;
+    text-decoration: line-through;
+}
+
+
